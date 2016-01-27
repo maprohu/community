@@ -1,40 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Community</title>
+    <description>Software development, collaboration, community and similar stuff
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 27 Jan 2016 22:11:58 +0000</pubDate>
-    <lastBuildDate>Wed, 27 Jan 2016 22:11:58 +0000</lastBuildDate>
+    <link>http://maprohu.github.io/community/</link>
+    <atom:link href="http://maprohu.github.io/community/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 27 Jan 2016 23:46:26 +0000</pubDate>
+    <lastBuildDate>Wed, 27 Jan 2016 23:46:26 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Welcome</title>
+        <description>&lt;p&gt;I have a new boss at work. He started about a month ago. The one before him left about a year ago. It took
+that long to find a replacement. In the meantime the boss of the boss was acting as the boss. I did not get along
+too well with him. That is why I was not particularly surprised when the new boss, after spending two week in his 
+position suggested that I might be better off looking for a job somewhere else.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;The organization that I am working for is responsible for the develoment of certain applications among other things.
+The development is mainly done by contractors, the employees are primarily focused on managing the contracts 
+and following the projects. Being a software developer, it was clear from the first day that I started working 
+there that this is not the ideal place for me. Still, I managed to stay for more than 5 years now, probably 
+because the salary was good enough and I could deal with the things that I wanted to.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;I was asked to decide if I want to stay at my current employer and completely give up software development or 
+leave the secure income and benefits and go for some new adventures. I was given some time to come back with an answer
+but I feel that there was never really a question at all. I have been enthusiastic about computers since I 
+got my first Commodore 64 about 25 something years ago and I cannot think of any reason why that would change
+anytime soon.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;So here I go, looking for what to do next. I could just look for another “regular” job but I am not quite 
+convinced to do so. Looking back at the jobs I have had so far, I could not actually pick any of them that I 
+particularly enjoyed more than the others. I do not expect that the next one could bring any significant change 
+in this trend. I was considering other options, like taking a break for a few months or even a year,
+travelling around for a while, taking a remote job, starting an own project like a game or an app or a website, or
+doing some combination of these. But I could not get to convince myself so I took a step back to try to find out
+what I would actually like to achieve. I figured that programming keeps me quite happy. I enjoy putting the 
+pieces together, figuring out stuff, and watching it do what it was meant to do. Good, I want to develop
+software, let’s go with that. I also want to do other things, like eat and sleep and relax and go out and visit places
+and similar stuff that people normally do.&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 27 Jan 2016 22:09:59 +0000</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/01/27/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/01/27/welcome-to-jekyll.html</guid>
+        <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://maprohu.github.io/community/2016/01/27/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://maprohu.github.io/community/2016/01/27/welcome-to-jekyll.html</guid>
         
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
