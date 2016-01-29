@@ -1,34 +1,62 @@
 ---
 layout: post
-title:  "Welcome"
-date:   2016-01-27 
+title:  "Readme first"
+date:   2016-01-29
 ---
 
-I have a new boss at work. He started about a month ago. The one before him left about a year ago. It took
-that long to find a replacement. In the meantime the boss of the boss was acting as the boss. I did not get along
-too well with him. That is why I was not particularly surprised when the new boss, after spending two week in his 
-position suggested that I might be better off looking for a job somewhere else. 
+Let's imagine a community. 
 
-The organization that I am working for is responsible for the develoment of certain applications among other things.
-The development is mainly done by contractors, the employees are primarily focused on managing the contracts 
-and following the projects. Being a software developer, it was clear from the first day that I started working 
-there that this is not the ideal place for me. Still, I managed to stay for more than 5 years now, probably 
-because the salary was good enough and I could deal with the things that I wanted to. 
+The members of this community are normal people that for most of their time do 
+things that other normal people generally do. For the rest of their time they 
+do things that are valuable for the community as a whole. That means that they 
+regularly contribute to the well-being of the community. 
 
-I was asked to decide if I want to stay at my current employer and completely give up software development or 
-leave the secure income and benefits and go for some new adventures. I was given some time to come back with an answer
-but I feel that there was never really a question at all. I have been enthusiastic about computers since I 
-got my first Commodore 64 about 25 something years ago and I cannot think of any reason why that would change
-anytime soon. 
+Let's also imagine that there is a way to quantify the value of each members' 
+contribution. That would lead us to a community that can determine the value
+of each of its members based on the total value of all the contribution that 
+the particular member has ever made. 
 
-So here I go, looking for what to do next. I could just look for another "regular" job but I am not quite 
-convinced to do so. Looking back at the jobs I have had so far, I could not actually pick any of them that I 
-particularly enjoyed more than the others. I do not expect that the next one could bring any significant change 
-in this trend. I was considering other options, like taking a break for a few months or even a year,
-travelling around for a while, taking a remote job, starting an own project like a game or an app or a website, or
-doing some combination of these. But I could not get to convince myself so I took a step back to try to find out
-what I would actually like to achieve. I figured that programming keeps me quite happy. I enjoy putting the 
-pieces together, figuring out stuff, and watching it do what it was meant to do. Good, I want to develop
-software, let's go with that. I also want to do other things, like eat and sleep and relax and go out and visit places
-and similar stuff that people normally do. 
+Let's keep on imagining, and assume that this community has a decision system 
+where the decisions are made by averaging the opinions of its members weighed
+by the value of the particular member. 
+
+Where would all this leave us? We would probably have a group of collaborating 
+individuals where each member has the right and means influence the decisions 
+that need to be made at the community level. The degree of the influence of 
+each member is proportional to the value of the total contribution that the 
+particular member has done to the community.
+
+Let's try to think about what the members would expect from such a community
+in order to be convinced to become and stay members.
+
+Every member of this community is a human being. Like all living creatures,
+human beings need to consume a certain amount of resources over a given period of time
+in order to make a certain quality of life possible. Experience shows that 
+the availability of these resources varies over time, therefore humans 
+have developed the habit of stocking them up in order to ensure that 
+there is no shortage, not even during the periods when the sources do not produce
+enough to keep up with the demand. Securing a certain lifestyle is probably
+something that every community member as well as every human being will want. 
+
+Once a certain quality of life is secured, the availability of any additional
+resources will have little value to the members. Instead, they will appreciate
+the prospect of growth in other areas, like individual influence and recognition. 
+Assuming that community is growing continuously, these expectations of the members
+will probably be met, provided that every member is contributing more or less equally. 
+
+Some of the assumptions that we have made so far will need further investigation
+but let's imagine for now that all them will eventually be found correct.
+Looking at the world today, can we find any model that has similar prospects has 
+its members?
+
+Governments in general, regardless of the actual details, are based on the existence
+of a certain individual or group of individualw that are responsivbe for 
+making decisions that affect the entire population. 
+
+blabla...
+
+
+
+ 
+
 
